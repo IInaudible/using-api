@@ -1,0 +1,24 @@
+{
+  "name": "using-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IInaudible/using-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IInaudible/using-api/issues"
+  },
+  "homepage": "https://github.com/IInaudible/using-api#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  },
+  "type": "module"
+}
